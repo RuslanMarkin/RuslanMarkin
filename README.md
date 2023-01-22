@@ -9,9 +9,9 @@
 
 ## 🙋‍♂️ About Me
 
-- 🔭 I’m currently working on **Charity App**
+- 🔭 I’m currently working on **VPN App**
 
-- 🌱 I’m currently learning **Rust.**
+- 🌱 I’m currently learning **Swift.**
 
 - 📫 How to reach me **ruslan.markin.work@gmail.com**,My Telegram: **[@akvdamas](https://t.me/akvdamas)**
 
